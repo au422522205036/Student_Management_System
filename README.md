@@ -11,7 +11,7 @@ This project demonstrates:
     
     Clean and easy-to-understand code for students and beginners
 
-Features
+Features:
 
     ✔ Add Student
     
@@ -50,3 +50,4 @@ Implementation:
 4.Run the program by using the following command in CLI:
 
     python student_management_system.py
+
